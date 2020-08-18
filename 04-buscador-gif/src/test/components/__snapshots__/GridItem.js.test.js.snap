@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de la aplicacion <GridItem /> Prueba para veriricar que el componente suba bien  1`] = `
+<div
+  className="card animate__bounceOutUp"
+>
+  <img
+    alt="Un titulo"
+    src="htttp://www.imagen.com/logo.png"
+    title="Un titulo"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
